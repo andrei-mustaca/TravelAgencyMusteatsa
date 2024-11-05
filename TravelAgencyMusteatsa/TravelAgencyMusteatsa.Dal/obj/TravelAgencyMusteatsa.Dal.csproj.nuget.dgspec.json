@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\TravelAgencyMusteatsa.Dal.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\TravelAgencyMusteatsa.Dal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\TravelAgencyMusteatsa.Dal.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\TravelAgencyMusteatsa.Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\TravelAgencyMusteatsa.Dal.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\TravelAgencyMusteatsa.Dal.csproj",
         "projectName": "TravelAgencyMusteatsa.Dal",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\TravelAgencyMusteatsa.Dal.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\TravelAgencyMusteatsa.Dal.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

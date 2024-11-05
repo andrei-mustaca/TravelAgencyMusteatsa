@@ -24,3 +24,29 @@ C:\Users\andre\OneDrive\Документы\TravelAgencyMusteatsa\TravelAgencyMus
 C:\Users\andre\OneDrive\Документы\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.pdb
 C:\Users\andre\OneDrive\Документы\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.genruntimeconfig.cache
 C:\Users\andre\OneDrive\Документы\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\ref\TravelAgencyMusteatsa.dll
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\bin\Debug\net6.0\appsettings.json
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\bin\Debug\net6.0\TravelAgencyMusteatsa.staticwebassets.runtime.json
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\bin\Debug\net6.0\TravelAgencyMusteatsa.exe
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\bin\Debug\net6.0\TravelAgencyMusteatsa.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\bin\Debug\net6.0\TravelAgencyMusteatsa.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\bin\Debug\net6.0\TravelAgencyMusteatsa.dll
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\bin\Debug\net6.0\TravelAgencyMusteatsa.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.RazorAssemblyInfo.cache
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.RazorAssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\scopedcss\bundle\TravelAgencyMusteatsa.styles.css
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\scopedcss\projectbundle\TravelAgencyMusteatsa.bundle.scp.css
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.dll
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\refint\TravelAgencyMusteatsa.dll
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\TravelAgencyMusteatsa.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика\TravelAgencyMusteatsa\TravelAgencyMusteatsa\TravelAgencyMusteatsa\obj\Debug\net6.0\ref\TravelAgencyMusteatsa.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\TravelAgencyMusteatsa.Service.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\TravelAgencyMusteatsa.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\TravelAgencyMusteatsa.Service.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\TravelAgencyMusteatsa.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\TravelAgencyMusteatsa.Service.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\TravelAgencyMusteatsa.Service.csproj",
         "projectName": "TravelAgencyMusteatsa.Service",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\TravelAgencyMusteatsa.Service.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\TravelAgencyMusteatsa.Service.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Документы\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Рабочий стол\\Учебная практика\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa\\TravelAgencyMusteatsa.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
